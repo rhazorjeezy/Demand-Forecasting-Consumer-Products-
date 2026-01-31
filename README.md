@@ -19,9 +19,4 @@ Kaggle – Store Item Demand Forecasting Challenge
 - Lag and rolling mean features were strongest predictors
 
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python scripts/run_pipeline.py
-```
-```
+
