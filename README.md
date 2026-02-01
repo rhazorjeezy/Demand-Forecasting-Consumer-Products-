@@ -2,7 +2,7 @@
 
 
 ## Business Problem
-Forecast daily product demand across stores to optimize inventory and reduce stockouts.
+Forecasting daily product demand across stores to optimize inventory and reduce stockouts.
 
 
 ## Dataset
